@@ -132,3 +132,5 @@ Create new Lead
     TypeText                    *Company                    ${company}
     ClickText                   Save                        partial_match=False
     UseModal                    Off
+
+# new custom keyword
